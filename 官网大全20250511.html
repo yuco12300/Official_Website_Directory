@@ -73,7 +73,7 @@
             list-style-type: none;
             padding: 0;
             display: flex;
-            justify-content: center; /* 子项水平居中 */
+            justify-content: justify; /* 子项左右对齐 */
             gap: 10px;
             flex-wrap: wrap;
         }
@@ -105,7 +105,7 @@
         .category-item {
             flex: 1 1 calc(25% - 20px); /* 每个分类项占据大约四分之一的空间 */
             min-width: 150px; /* 确保每个分类项有一定的最小宽度 */
-            text-align: center; /* 内容居中对齐 */
+            text-align: justify; /* 内容左右对齐 */
         }
         .content-wrapper {
             display: flex;
@@ -127,7 +127,7 @@
                 <input type="text" class="search-box" placeholder="搜索...">
                 <div class="suggestions"></div>
             </div>
-            <p>20250511&copy;优科电脑 Powered by Qianwen 3</p>
+            <p>20250512&copy;优科电脑 Powered by Qianwen 3</p>
         </div>
         <div class="main-content" id="main-content">
             <!-- 动态内容将在这里生成 -->
@@ -144,6 +144,7 @@
                     { text: "Epic游戏平台", url: "https://www.epicgames.com" },
                     { text: "WeGame游戏平台", url: "https://www.wegame.com.cn" },
                     { text: "EA Origin 烂橘子游戏平台", url: "https://www.origin.com/" },
+					{ text: "Battlenet暴雪战网", url: "https://shop.battlenet.com.cn/" },
                     { text: "GOG 游戏平台", url: "https://www.gogalaxy.com/zh-cn/" },
                     { text: "5E对战平台", url: "https://arena.5eplay.com/" },
                     { text: "完美世界对战平台", url: "https://pvp.wanmei.com/" },
@@ -180,11 +181,13 @@
                     { text: "逆战", url: "https://nz.qq.com" },
                     { text: "荒野行动", url: "https://hy.163.com" },
                     { text: "光·遇", url: "https://sky.163.com" },
+					{ text: "300英雄", url: "https://300.jumpw.com/" },
                     { text: "我的世界Minecraft", url: "https://www.minecraft.net" },
                     { text: "我的世界国服", url: "https://mc.163.com/" },
                     { text: "Roblox", url: "https://www.roblox.com" },
                     { text: "堡垒之夜", url: "https://www.epicgames.com/fortnite" },
                     { text: "Apex英雄", url: "https://www.ea.com/games/apex-legends" },
+					{ text: "剑灵", url: "https://bns.qq.com/" },
                     { text: "Valorant瓦洛兰特", url: "https://playvalorant.com" },
 					{ text: "无畏契约", url: "https://val.qq.com/" },
 					{ text: "鸣潮", url: "https://mc.kurogames.com/main" },
@@ -198,7 +201,10 @@
 					{ text: "大话西游2", url: "https://xy2.163.com/" },
 					{ text: "天下3", url: "https://tx3.163.com/" },
 					{ text: "燕云十六声", url: "https://www.yysls.cn/" },
-					{ text: "", url: "" },
+					{ text: "逃离塔克夫", url: "https://arena.tarkov.com/" },
+					{ text: "坦克世界", url: "https://wot.wggames.cn/" },
+					{ text: "战舰世界", url: "https://wows.wggames.cn/" },
+					{ text: "塔瑞斯世界", url: "https://trssj.qq.com/" },
                 ]
             },
 			{
@@ -216,7 +222,6 @@
 			        { text: "腾讯手游助手", url: "https://syzs.qq.com/" },
 			        { text: "雷电模拟器", url: "https://www.ldmnq.com/" },
 			        { text: "网易MUMU模拟器", url: "https://mumu.163.com/" },
-					{ text: "", url: "" },
 			    ]
 			},
             {
@@ -237,11 +242,13 @@
                     { text: "飞书", url: "https://www.feishu.cn/download" },
                     { text: "网易邮箱大师", url: "https://dashi.163.com/" },
 					{ text: "Xmind 思维导图", url: "https://xmind.cn/" },
-					{ text: "千牛工作台", url: "https://work.taobao.com/" },
 					{ text: "向日葵远程控制", url: "https://sunlogin.oray.com/download/" },
 					{ text: "ToDesk远程控制", url: "https://www.todesk.com/download" },
 					{ text: "TeamViewer", url: "https://www.teamviewer.cn/cn/download" },
-					{ text: "", url: "" },
+					{ text: "PDFgear", url: "https://www.pdfgear.com/" },
+					{ text: "百度网盘", url: "https://pan.baidu.com" },
+					{ text: "阿里云盘", url: "https://www.alipan.com/" },
+					{ text: "123云盘", url: "https://www.123pan.com/" },
                 ]
             },
 			{
@@ -251,7 +258,6 @@
 					{ text: "迅游加速器", url: "https://www.xunyou.com/" },
 					{ text: "小黑盒加速器", url: "https://acc.xiaoheihe.cn/" },
 					{ text: "雷神加速器", url: "https://www.leigod.com/" },
-					{ text: "", url: "" },
                 ]
             },
             {
@@ -263,18 +269,17 @@
                     { text: "Firefox火狐浏览器", url: "https://www.firefox.com.cn/" },
                     { text: "微软Edge浏览器", url: "https://www.microsoft.com/zh-cn/edge/download" },
                     { text: "搜狗浏览器", url: "https://sogou.browser.qq.com/" },
-                    { text: "", url: "" },
                 ]
             },
             {
                 category: "影音视频",
                 items: [
                     { text: "央视影音", url: "https://app.cctv.com/" },
+					{ text: "抖音", url: "https://www.douyin.com/" },
 					{ text: "腾讯视频", url: "https://v.qq.com/download.html" },
                     { text: "爱奇艺", url: "https://www.iqiyi.com/appstore.html" },
                     { text: "优酷视频", url: "https://youku.com/product/index" },
                     { text: "BiliBili哔哩哔哩", url: "https://app.bilibili.com/" },
-                    { text: "抖音", url: "https://www.douyin.com/" },
                     { text: "快手", url: "https://www.kuaishou.com/" },
                     { text: "QQ音乐", url: "https://y.qq.com/download/index.html" },
                     { text: "网易云音乐", url: "https://music.163.com/#/download" },
@@ -282,32 +287,29 @@
                     { text: "酷我音乐", url: "https://kuwo.cn/down" },
                     { text: "喜马拉雅", url: "https://www.ximalaya.com/download/" },
                     { text: "全民K歌", url: "https://kg.qq.com/index-pc.html" },
-                    { text: "", url: "" },
                 ]
             },
             {
                 category: "直播平台软件",
                 items: [
-                    { text: "OBS Studio", url: "https://obsproject.com/zh-cn/download" },
-					{ text: "抖音直播伴侣", url: "https://streamingtool.douyin.com/" },
+                    { text: "抖音直播伴侣", url: "https://streamingtool.douyin.com/" },
+					{ text: "OBS Studio", url: "https://obsproject.com/zh-cn/download" },
 					{ text: "快手直播伴侣", url: "https://live.kuaishou.com/live-partner" },
 					{ text: "BiliBili直播姬", url: "https://link.bilibili.com/p/eden/download" },
 					{ text: "YY直播", url: "https://www.yy.com/yy8/" },
 					{ text: "虎牙直播", url: "https://www.huya.com/download/" },
-					
+					{ text: "微信直播助手", url: "https://channels.weixin.qq.com/" },
                 ]
             },
             {
                 category: "Ai网站",
                 items: [
-                    { text: "DeepSeek深度求索", url: "https://www.deepseek.com" },
-					{ text: "豆包", url: "https://www.doubao.com/" },
+                    { text: "豆包", url: "https://www.doubao.com/" },
+					{ text: "DeepSeek深度求索", url: "https://www.deepseek.com" },
 					{ text: "腾讯元宝", url: "https://yuanbao.tencent.com/" },
 					{ text: "文心一言", url: "https://yiyan.baidu.com/" },
 					{ text: "通义千问", url: "https://www.tongyi.com/" },
-					{ text: "", url: "" },
-					{ text: "", url: "" },
-					{ text: "", url: "" },
+					{ text: "讯飞星火", url: "https://xinghuo.xfyun.cn/" },
                 ]
             },
             {
@@ -340,7 +342,6 @@
 					{ text: "腾讯电脑管家", url: "https://guanjia.qq.com/" },
 					{ text: "火绒安全", url: "https://www.huorong.cn/" },
 					{ text: "微软电脑管家", url: "https://pcmanager.microsoft.com/zh-cn" },
-					{ text: "", url: "" },
                 ]
             },
             {
@@ -351,62 +352,27 @@
 					{ text: "微信输入法", url: "" },
 					{ text: "腾讯QQ输入法", url: "" },
 					{ text: "讯飞输入法", url: "" },
+					{ text: "搜狗五笔输入法", url: "https://wubi.sogou.com/" },
+					{ text: "万能五笔输入法", url: "http://www.wnwb.com/" }
                 ]
             },
+            
             {
-                category: "",
+                category: "视频编辑",
                 items: [
-                    { text: "", url: "" },
+                    { text: "剪映", url: "https://www.capcut.cn/" },
+					{ text: "必剪", url: "https://bcut.bilibili.cn/" },
+					{ text: "可画", url: "https://www.canva.cn/video-editor/" },
+					{ text: "格式工厂", url: "http://www.pcfreetime.com/formatfactory" },
                 ]
             },
-            {
-                category: "",
+			{
+                category: "跑分测试",
                 items: [
-                    { text: "", url: "" },
+                    { text: "鲁大师", url: "https://www.ludashi.com/" },
+					{ text: "游戏加加", url: "https://gamepp.com/" },
                 ]
             },
-            {
-                category: "",
-                items: [
-                    { text: "", url: "" },
-                ]
-            },
-            {
-                category: "",
-                items: [
-                    { text: "", url: "" },
-                ]
-            },
-            {
-                category: "",
-                items: [
-                    { text: "", url: "" },
-                ]
-            },
-            {
-                category: "",
-                items: [
-                    { text: "", url: "" },
-                ]
-            },
-            {
-                category: "",
-                items: [
-                    { text: "", url: "" },
-                ]
-            },
-            {
-                category: "",
-                items: [
-                    { text: "", url: "" },
-                ]
-            },
-            {
-                category: "",
-                items: [
-                    { text: "", url: "" },
-                ]
-            }
         ];
 
         function generateContent(data) {
