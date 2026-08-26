@@ -1,0 +1,272 @@
+[
+  {
+  "siteInfo": {
+    "copyright": "2026.08.26 © 优科电脑",
+    "powered": "Powered by Qianwen 3"
+  },
+  }
+  {
+    "category": "游戏平台",
+    "items": [
+      { "text": "Steam游戏平台", "url": "https://store.steampowered.com" },
+      { "text": "Steam蒸汽游戏平台", "url": "https://store.steamchina.com/" },
+      { "text": "Epic游戏平台", "url": "https://www.epicgames.com" },
+      { "text": "WeGame游戏平台", "url": "https://www.wegame.com.cn" },
+      { "text": "EA Origin 烂橘子游戏平台", "url": "https://www.origin.com/" },
+      { "text": "Battlenet暴雪战网", "url": "https://shop.battlenet.com.cn/" },
+      { "text": "GOG 游戏平台", "url": "https://www.gogalaxy.com/zh-cn/" },
+      { "text": "5E对战平台", "url": "https://arena.5eplay.com/" },
+      { "text": "完美世界对战平台", "url": "https://pvp.wanmei.com/" },
+      { "text": "KK对战平台", "url": "https://www.kkdzpt.com/" },
+      { "text": "兰博电竞对战平台", "url": "https://ramboplay.com/" },
+      { "text": "QQ游戏大厅", "url": "https://qqgame.qq.com/" },
+      { "text": "R星Rockstar", "url": "https://www.rockstargames.com/" },
+      { "text": "JJ竞技世界", "url": "https://www.jjmatch.cn/" }
+    ]
+  },
+  {
+    "category": "网络游戏",
+    "items": [
+      { "text": "英雄联盟", "url": "https://lol.qq.com" },
+      { "text": "永劫无间", "url": "https://www.yjwujian.cn" },
+      { "text": "穿越火线 (CF)", "url": "https://cf.qq.com/main.shtml" },
+      { "text": "地下城与勇士 (DNF)", "url": "https://dnf.qq.com" },
+      { "text": "原神", "url": "https://ys.mihoyo.com" },
+      { "text": "绝地求生 (PUBG)", "url": "https://www.pubg.com" },
+      { "text": "三角洲行动", "url": "https://df.qq.com/" },
+      { "text": "暗区突围：无限", "url": "https://aqtwwx.qq.com/" },
+      { "text": "守望先锋", "url": "https://ow.blizzard.cn/" },
+      { "text": "魔兽世界", "url": "https://wow.blizzard.cn/" },
+      { "text": "炉石传说", "url": "https://hs.blizzard.cn/" },
+      { "text": "DOTA 2", "url": "https://www.dota2.com.cn" },
+      { "text": "CS:GO", "url": "https://www.csgo.com.cn" },
+      { "text": "天涯明月刀", "url": "https://wuxia.qq.com" },
+      { "text": "剑网3", "url": "https://jx3.xoyo.com" },
+      { "text": "逆水寒", "url": "https://n.163.com" },
+      { "text": "梦幻西游", "url": "https://xyq.163.com" },
+      { "text": "崩坏3", "url": "https://bh3.com" },
+      { "text": "FIFA Online 4", "url": "https://eafifa.qq.com" },
+      { "text": "QQ飞车", "url": "https://speed.qq.com" },
+      { "text": "QQ炫舞", "url": "https://x5.qq.com" },
+      { "text": "逆战", "url": "https://nz.qq.com" },
+      { "text": "荒野行动", "url": "https://hy.163.com" },
+      { "text": "光·遇", "url": "https://sky.163.com" },
+      { "text": "300英雄", "url": "https://300.jumpw.com/" },
+      { "text": "我的世界Minecraft", "url": "https://www.minecraft.net" },
+      { "text": "我的世界国服", "url": "https://mc.163.com/" },
+      { "text": "Roblox", "url": "https://www.roblox.com" },
+      { "text": "堡垒之夜", "url": "https://www.epicgames.com/fortnite" },
+      { "text": "Apex英雄", "url": "https://www.ea.com/games/apex-legends" },
+      { "text": "剑灵", "url": "https://bns.qq.com/" },
+      { "text": "Valorant瓦洛兰特", "url": "https://playvalorant.com" },
+      { "text": "无畏契约", "url": "https://val.qq.com/" },
+      { "text": "鸣潮", "url": "https://mc.kurogames.com/main" },
+      { "text": "崩坏星穹铁道", "url": "https://sr.mihoyo.com/" },
+      { "text": "绝区零", "url": "https://zzz.mihoyo.com/" },
+      { "text": "GTA 5", "url": "https://www.rockstargames.com/V/" },
+      { "text": "劲舞团", "url": "https://au.9you.com/" },
+      { "text": "热血传奇", "url": "https://mir2.web.sdo.com/" },
+      { "text": "冒险岛", "url": "https://mxd.web.sdo.com/" },
+      { "text": "泡泡堂", "url": "https://bnb.web.sdo.com/" },
+      { "text": "大话西游2", "url": "https://xy2.163.com/" },
+      { "text": "天下3", "url": "https://tx3.163.com/" },
+      { "text": "燕云十六声", "url": "https://www.yysls.cn/" },
+      { "text": "逃离塔克夫", "url": "https://arena.tarkov.com/" },
+      { "text": "坦克世界", "url": "https://wot.wggames.cn/" },
+      { "text": "战舰世界", "url": "https://wows.wggames.cn/" },
+      { "text": "塔瑞斯世界", "url": "https://trssj.qq.com/" }
+    ]
+  },
+  {
+    "category": "手游电脑版",
+    "items": [
+      { "text": "王者荣耀", "url": "https://syzs.qq.com/game/rpg/pvp" },
+      { "text": "和平精英", "url": "https://syzs.qq.com/game/act/pubg" },
+      { "text": "火影忍者", "url": "https://syzs.qq.com/game/slg/hyrz" },
+      { "text": "金铲铲之战", "url": "https://syzs.qq.com/game/slg/com.tencent.jkchess" },
+      { "text": "天龙八部", "url": "https://syzs.qq.com/game/rpg/com.tencent.tmgp.tstl" },
+      { "text": "使命召唤手游", "url": "https://codm.qq.com" },
+      { "text": "第五人格", "url": "https://id5.163.com" },
+      { "text": "阴阳师", "url": "https://yys.163.com" },
+      { "text": "明日方舟", "url": "https://ak.hypergryph.com" },
+      { "text": "腾讯手游助手", "url": "https://syzs.qq.com/" },
+      { "text": "雷电模拟器", "url": "https://www.ldmnq.com/" },
+      { "text": "网易MUMU模拟器", "url": "https://mumu.163.com/" }
+    ]
+  },
+  {
+    "category": "聊天办公",
+    "items": [
+      { "text": "腾讯微信", "url": "https://weixin.qq.com" },
+      { "text": "腾讯QQ", "url": "https://im.qq.com" },
+      { "text": "腾讯企业微信", "url": "https://work.weixin.qq.com" },
+      { "text": "腾讯会议", "url": "https://meeting.tencent.com/download/" },
+      { "text": "腾讯文档", "url": "https://docs.qq.com/home/download" },
+      { "text": "腾讯TIM", "url": "https://tim.qq.com/download.html" },
+      { "text": "WPS Office", "url": "https://www.wps.cn/" },
+      { "text": "钉钉", "url": "https://www.dingtalk.com/download" },
+      { "text": "YY语音", "url": "https://www.yy.com/yy8/" },
+      { "text": "KOOK语音", "url": "https://www.kookapp.cn/" },
+      { "text": "CAD快速看图", "url": "https://cad.glodon.com/" },
+      { "text": "美图秀秀", "url": "https://pc.meitu.com/" },
+      { "text": "飞书", "url": "https://www.feishu.cn/download" },
+      { "text": "阿里邮箱", "url": "https://www.aliuyun.com.cn/app/" },
+      { "text": "Foxmail狐狸邮箱", "url": "https://www.foxmail.com/" },
+      { "text": "网易邮箱大师", "url": "https://dashi.163.com/" },
+      { "text": "Xmind 思维导图", "url": "https://xmind.cn/" },
+      { "text": "向日葵远程控制", "url": "https://sunlogin.oray.com/download/" },
+      { "text": "ToDesk远程控制", "url": "https://www.todesk.com/download" },
+      { "text": "TeamViewer", "url": "https://www.teamviewer.cn/cn/download" },
+      { "text": "PDFgear", "url": "https://www.pdfgear.com/" },
+      { "text": "百度网盘", "url": "https://pan.baidu.com" },
+      { "text": "阿里云盘", "url": "https://www.alipan.com/" },
+      { "text": "123云盘", "url": "https://www.123pan.com/" },
+      { "text": "希沃白板", "url": "https://easinote.seewo.com/" }
+    ]
+  },
+  {
+    "category": "游戏加速器",
+    "items": [
+      { "text": "网易UU加速器", "url": "https://uu.163.com/" },
+      { "text": "迅游加速器", "url": "https://www.xunyou.com/" },
+      { "text": "小黑盒加速器", "url": "https://acc.xiaoheihe.cn/" },
+      { "text": "雷神加速器", "url": "https://www.leigod.com/" },
+      { "text": "瓦特工具箱", "url": "https://steampp.net/" }
+    ]
+  },
+  {
+    "category": "浏览器",
+    "items": [
+      { "text": "Chrome谷歌浏览器", "url": "https://www.google.cn/chrome" },
+      { "text": "QQ浏览器", "url": "https://browser.qq.com/" },
+      { "text": "360安全浏览器", "url": "https://browser.360.cn/" },
+      { "text": "Firefox火狐浏览器", "url": "https://www.firefox.com/" },
+      { "text": "微软Edge浏览器", "url": "https://www.microsoft.com/zh-cn/edge/download" },
+      { "text": "搜狗浏览器", "url": "https://sogou.browser.qq.com/" }
+    ]
+  },
+  {
+    "category": "影音视频",
+    "items": [
+      { "text": "央视影音", "url": "https://app.cctv.com/" },
+      { "text": "抖音", "url": "https://www.douyin.com/" },
+      { "text": "腾讯视频", "url": "https://v.qq.com/download.html" },
+      { "text": "爱奇艺", "url": "https://www.iqiyi.com/appstore.html" },
+      { "text": "优酷视频", "url": "https://youku.com/product/index" },
+      { "text": "BiliBili哔哩哔哩", "url": "https://app.bilibili.com/" },
+      { "text": "快手", "url": "https://www.kuaishou.com/" },
+      { "text": "QQ音乐", "url": "https://y.qq.com/download/index.html" },
+      { "text": "网易云音乐", "url": "https://music.163.com/#/download" },
+      { "text": "酷狗音乐", "url": "https://download.kugou.com/" },
+      { "text": "酷我音乐", "url": "https://kuwo.cn/down" },
+      { "text": "喜马拉雅", "url": "https://www.ximalaya.com/download/" },
+      { "text": "全民K歌", "url": "https://kg.qq.com/index-pc.html" }
+    ]
+  },
+  {
+    "category": "直播平台软件",
+    "items": [
+      { "text": "抖音直播伴侣", "url": "https://streamingtool.douyin.com/" },
+      { "text": "OBS Studio", "url": "https://obsproject.com/zh-cn/download" },
+      { "text": "快手直播伴侣", "url": "https://live.kuaishou.com/live-partner" },
+      { "text": "BiliBili直播姬", "url": "https://link.bilibili.com/p/eden/download" },
+      { "text": "YY直播", "url": "https://www.yy.com/yy8/" },
+      { "text": "虎牙直播", "url": "https://www.huya.com/download/" },
+      { "text": "微信直播助手", "url": "https://channels.weixin.qq.com/" }
+    ]
+  },
+  {
+    "category": "Ai网站",
+    "items": [
+      { "text": "豆包", "url": "https://www.doubao.com/" },
+      { "text": "DeepSeek深度求索", "url": "https://www.deepseek.com" },
+      { "text": "腾讯元宝", "url": "https://yuanbao.tencent.com/" },
+      { "text": "文心一言", "url": "https://yiyan.baidu.com/" },
+      { "text": "通义千问", "url": "https://www.tongyi.com/" },
+      { "text": "讯飞星火", "url": "https://xinghuo.xfyun.cn/" }
+    ]
+  },
+  {
+    "category": "驱动下载",
+    "items": [
+      { "text": "360驱动大师", "url": "https://dm.weishi.360.cn/home.html" },
+      { "text": "驱动总裁", "url": "https://www.sysceo.com/dc.html" },
+      { "text": "英伟达Nvidia显卡驱动", "url": "https://www.nvidia.cn/geforce/drivers/" },
+      { "text": "美超微AMD驱动", "url": "https://www.amd.com/zh-cn/support/download/drivers.html" },
+      { "text": "英特尔Intel驱动", "url": "https://www.intel.cn/content/www/cn/zh/support/detect.html" },
+      { "text": "戴尔Dell产品驱动", "url": "https://www.dell.com/support/home/zh-cn?app=drivers" },
+      { "text": "联想Lenovo产品驱动", "url": "https://newsupport.lenovo.com.cn/driveDownloads_index.html" },
+      { "text": "华硕Asus产品驱动", "url": "https://www.asus.com.cn/support/download-center/" },
+      { "text": "微星Msi产品驱动", "url": "https://www.msi.cn/support/download" },
+      { "text": "华为Huawei产品驱动", "url": "https://consumer.huawei.com/cn/support/driver-list/" },
+      { "text": "小米Mi产品驱动", "url": "https://www.mi.com/service/notebook/drivers" },
+      { "text": "佳能Canon产品及打印机", "url": "https://www.canon.com.cn/supports/download" },
+      { "text": "惠普HP产品及打印机", "url": "https://support.hp.com/cn-zh/drivers" },
+      { "text": "爱普生Epson产品及打印机", "url": "https://www.epson.com.cn/services/guidedrive.html" },
+      { "text": "兄弟Brother产品及打印机", "url": "https://www.95105369.com/" },
+      { "text": "三星Samsung产品及打印机", "url": "https://www.samsung.com.cn/support/" },
+      { "text": "富士施乐FUJIFILM产品及打印机", "url": "https://m3support-fb.fujifilm-fb.com.cn/driver_downloads/www/" },
+      { "text": "OKI产品及打印机", "url": "https://www.oki.com/cn/printing/" },
+      { "text": "瓦尔基里valkyrie", "url": "https://www.valkyrie.com.cn/" },
+      { "text": "利民thermalright", "url": "https://thermalright.com.cn/downloads" },
+      { "text": "罗技logitech G HUB", "url": "https://www.logitechg.com/zh-cn/software/ghub" },
+      { "text": "技嘉Gigabyte产品驱动", "url": "https://www.gigabyte.cn/Support/Consumer/Download" }
+    ]
+  },
+  {
+    "category": "杀毒软件",
+    "items": [
+      { "text": "360安全", "url": "https://www.360.cn/" },
+      { "text": "腾讯电脑管家", "url": "https://guanjia.qq.com/" },
+      { "text": "火绒安全", "url": "https://www.huorong.cn/" },
+      { "text": "微软电脑管家", "url": "https://pcmanager.microsoft.com/zh-cn" }
+    ]
+  },
+  {
+    "category": "输入法",
+    "items": [
+      { "text": "百度输入法", "url": "https://shurufa.baidu.com/" },
+      { "text": "搜狗输入法", "url": "https://shurufa.sogou.com/" },
+      { "text": "微信输入法", "url": "https://z.weixin.qq.com/" },
+      { "text": "腾讯QQ输入法", "url": "https://qq.pinyin.cn/" },
+      { "text": "讯飞输入法", "url": "https://srf.xunfei.cn/" },
+      { "text": "搜狗五笔输入法", "url": "https://wubi.sogou.com/" },
+      { "text": "万能五笔输入法", "url": "http://www.wnwb.com/" }
+    ]
+  },
+  {
+    "category": "视频编辑",
+    "items": [
+      { "text": "剪映", "url": "https://www.capcut.cn/" },
+      { "text": "必剪", "url": "https://bcut.bilibili.cn/" },
+      { "text": "可画", "url": "https://www.canva.cn/video-editor/" },
+      { "text": "格式工厂", "url": "http://www.pcfreetime.com/formatfactory" }
+    ]
+  },
+  {
+    "category": "跑分测试",
+    "items": [
+      { "text": "鲁大师", "url": "https://www.ludashi.com/" },
+      { "text": "游戏加加", "url": "https://gamepp.com/" },
+      { "text": "中科大网速测试", "url": "https://test.ustc.edu.cn/" },
+      { "text": "zFrontier键盘测试", "url": "https://www.zfrontier.com/lab/keyboardTester" },
+      { "text": "", "url": "" }
+    ]
+  },
+  {
+    "category": "应用商店",
+    "items": [
+      { "text": "火绒应用商店", "url": "https://www.huorong.cn/appstore" },
+      { "text": "联想应用商店", "url": "https://lestore.lenovo.com/" },
+      { "text": "腾讯软件中心", "url": "https://pc.qq.com/" },
+      { "text": "", "url": "" }
+    ]
+  },
+  {
+    "category": "项目开源地址",
+    "items": [
+      { "text": "本项目地址", "url": "https://github.com/yuco12300/Official_Website_Directory" },
+      { "text": "", "url": "" }
+    ]
+  }
+]
