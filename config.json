@@ -1,10 +1,10 @@
-[
-  {
+{
   "siteInfo": {
-    "copyright": "2026.08.26 © 优科电脑",
+    "copyright": "2025.12.27 © 优科电脑",
     "powered": "Powered by Qianwen 3"
-  }
   },
+  "categories": 
+  [
   {
     "category": "游戏平台",
     "items": [
@@ -270,3 +270,9 @@
     ]
   }
 ]
+}
+
+
+
+
+
