@@ -121,7 +121,7 @@
       { "text": "百度网盘", "url": "https://pan.baidu.com" },
       { "text": "阿里云盘", "url": "https://www.alipan.com/" },
       { "text": "123云盘", "url": "https://www.123pan.com/" },
-      { "text": "希沃白板", "url": "https://easinote.seewo.com/" }
+      { "text": "希沃白板", "url": "https://easinote.seewo.com/" },
       { "text": "迅雷", "url": "https://dl.xunlei.com/" }
     ]
   },
@@ -182,9 +182,14 @@
       { "text": "豆包", "url": "https://www.doubao.com/" },
       { "text": "DeepSeek深度求索", "url": "https://www.deepseek.com" },
       { "text": "腾讯元宝", "url": "https://yuanbao.tencent.com/" },
+      { "text": "月之暗面Kimi", "url": "https://www.kimi.com/" },
       { "text": "文心一言", "url": "https://yiyan.baidu.com/" },
       { "text": "通义千问", "url": "https://www.tongyi.com/" },
-      { "text": "讯飞星火", "url": "https://xinghuo.xfyun.cn/" }
+      { "text": "讯飞星火", "url": "https://xinghuo.xfyun.cn/" },
+      { "text": "chat-gpt", "url": "https://chatgpt.com/" },
+      { "text": "claude", "url": "https://claude.com/" },
+      { "text": "gemini", "url": "https://deepmind.google/models/gemini/" },
+      { "text": "muse", "url": "https://auth.muse.ai/" }
     ]
   },
   {
@@ -251,6 +256,8 @@
       { "text": "游戏加加", "url": "https://gamepp.com/" },
       { "text": "中科大网速测试", "url": "https://test.ustc.edu.cn/" },
       { "text": "zFrontier键盘测试", "url": "https://www.zfrontier.com/lab/keyboardTester" },
+      { "text": "屏幕测试", "url": "https://screen.bmcx.com/" },
+      { "text": "鼠标测试", "url": "https://www.mousetester.cn/" },
       { "text": "", "url": "" }
     ]
   },
