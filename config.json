@@ -27,6 +27,7 @@
   {
     "category": "网络游戏",
     "items": [
+      { "text": "影之刃零", "url": "https://pbz.s-game.cn/zh-CN/" },
       { "text": "英雄联盟", "url": "https://lol.qq.com" },
       { "text": "永劫无间", "url": "https://www.yjwujian.cn" },
       { "text": "穿越火线 (CF)", "url": "https://cf.qq.com/main.shtml" },
