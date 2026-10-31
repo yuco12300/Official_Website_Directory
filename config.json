@@ -1,6 +1,6 @@
 {
   "siteInfo": {
-    "copyright": "2026.10.16 © 优科电脑",
+    "copyright": "2026.10.31 © 优科电脑",
     "powered": "Powered by Qianwen 3 Deepseek"
   },
   "categories": 
@@ -12,6 +12,7 @@
       { "text": "Steam蒸汽游戏平台", "url": "https://store.steamchina.com/" },
       { "text": "Epic游戏平台", "url": "https://www.epicgames.com" },
       { "text": "WeGame游戏平台", "url": "https://www.wegame.com.cn" },
+      { "text": "miHoYo米哈游启动器", "url": "https://launcher.mihoyo.com/" },
       { "text": "EA Origin 烂橘子游戏平台", "url": "https://www.origin.com/" },
       { "text": "Battlenet暴雪战网", "url": "https://shop.battlenet.com.cn/" },
       { "text": "GOG 游戏平台", "url": "https://www.gogalaxy.com/zh-cn/" },
@@ -36,6 +37,8 @@
       { "text": "绝地求生 (PUBG)", "url": "https://www.pubg.com" },
       { "text": "三角洲行动", "url": "https://df.qq.com/" },
       { "text": "暗区突围：无限", "url": "https://aqtwwx.qq.com/" },
+      { "text": "逆战：未来", "url": "https://nzm.qq.com/" },
+      { "text": "失控进化", "url": "https://skjh.qq.com/" },
       { "text": "守望先锋", "url": "https://ow.blizzard.cn/" },
       { "text": "魔兽世界", "url": "https://wow.blizzard.cn/" },
       { "text": "炉石传说", "url": "https://hs.blizzard.cn/" },
